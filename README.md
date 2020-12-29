@@ -1,2 +1,2 @@
 # My-Machine-Learning-Assignment
-my Machine Learning assignments at HKU
+My Machine Learning assignments at HKU
